@@ -15,6 +15,6 @@ mov cl,[304h]
 add bl,bh
 sub bl,cl  
 
-mov ax,100h;data segmenti sonucu 100htan baþlat
+mov ax,100h;data segmenti sonucu 100htan baÃ¾lat
 mov ds,ax 
 mov [400h],bl;sonra 400 adresine ata
